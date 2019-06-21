@@ -25,7 +25,7 @@ namespace hola_mundo_WFA
 
         private void Btn_mensaje_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola mundo");
+            MessageBox.Show("Push Visual Studio");
         }
     }
 }
